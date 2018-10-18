@@ -1,1 +1,3 @@
 Here is a second file for the exercise!
+
+my activity is just writing random code
