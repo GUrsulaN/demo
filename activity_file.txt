@@ -1,3 +1,8 @@
 Here is a second file for the exercise!
 
 my activity is just writing random code
+
+Git is important for:
+	Sharing code
+	Collaborative projects
+	Getting help
